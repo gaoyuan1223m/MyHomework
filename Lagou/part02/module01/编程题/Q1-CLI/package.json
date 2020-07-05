@@ -1,0 +1,25 @@
+{
+  "name": "q1_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {  },
+  "bin": {
+    "ryan-cli": "./bin/ryan"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "consolidate": "^0.15.1",
+    "download-git": "^1.0.1",
+    "inquirer": "^7.3.0",
+    "metalsmith": "^2.3.0",
+    "ncp": "^2.0.0",
+    "ora": "^4.0.4",
+    "repo": "0.0.15"
+  }
+}
